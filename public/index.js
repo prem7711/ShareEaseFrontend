@@ -15,7 +15,7 @@ const emailForm = document.querySelector("#emailForm");
 
 // const toast = document.querySelector(".toast");
 
-const baseURL = "http://localhost:4000";
+const baseURL = "https://shareease-x802.onrender.com";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
